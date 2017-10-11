@@ -2,9 +2,8 @@
 Arithmetic 1 / 算法题 1
 
 ## 题目：输入一个链表的头结点，‘从尾到头’打印每个结点的值 
+
 <pre><code>
-
-
 #include "arithmetic1.h"
 
 /* 先定义链表的结点 */
